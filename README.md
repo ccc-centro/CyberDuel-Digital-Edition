@@ -7,6 +7,14 @@ Adequa-se a jogadores com conhecimentos básicos ou avançados de ciberseguranç
 
 **De forma a jogar a versão digital, basta descarregar o ficheiro [Game_Win_Version](Game_Win_Version.zip), descompactar o mesmo e executar o ficheiro `CyberDuel.exe`.**
 
+## 🎮 Como Jogar
+
+### Versão Desktop (Windows)
+**Para jogar a versão digital, basta descarregar o ficheiro [Game_Win_Version](Game_Win_Version.zip), descompactar o mesmo e executar o ficheiro `CyberDuel.exe`.**
+
+### Versão Online
+**Jogue diretamente no seu navegador: [CyberDuel Online](https://ccc-centro.github.io/CyberDuel-Digital-Edition/)**
+
 ## 🎉 Objetivo do Jogo
 
 Tem como objetivo ensinar conceitos essenciais de cibersegurança de forma prática, incentivando a identificação de ataques e a escolha das melhores defesas.
@@ -41,7 +49,7 @@ https://www.canva.com/design/DAGe6UR0W8A/wR7eMMIZXv-UX53P5dSkLA/edit?utm_content
 # Créditos
 
 As imagens utilizadas para as cartas foram geradas com recurso à plataforma [Dall-E](https://openai.com/index/dall-e-2/).
-O fundo e limites das cartas originam de recursos gratuítos da plataforma [Canva](https://www.canva.com).
+O fundo e limites das cartas originam de recursos gratuitos da plataforma [Canva](https://www.canva.com).
 
 O projeto foi desenvolvido no âmbito do [Centro de Competências em Cibersegurança - Centro](https://www.ccc-centro.pt), tendo sido apoiado pelo programa Plano de Recuperação e Resiliência.
 
