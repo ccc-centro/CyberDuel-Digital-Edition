@@ -5,7 +5,7 @@
 CyberDuel é um jogo sério, criado com o intuito de ensinar mais sobre cibersegurança de forma divertida, rápida e interativa. O jogo combina estratégia, debate e conhecimento para promover boas práticas de segurança digital. 
 Adequa-se a jogadores com conhecimentos básicos ou avançados de cibersegurança, permitindo a discussão do impacto de ataques e das estratégias de defesa. De forma guiada, permite uma discussão aberta sobre a cibersegurança com um público muito alargado.
 
-**De forma a jogar a versão digital, basta descarregar a pasta [Game_Win_Version](Game_Win_Version) e executar o ficheiro [CyberDuel.exe](Game_Win_Version/CyberDuel.exe).**
+**De forma a jogar a versão digital, basta descarregar o ficheiro [Game_Win_Version](Game_Win_Version.zip), descompactar o mesmo e executar o ficheiro `CyberDuel.exe`.**
 
 ## 🎉 Objetivo do Jogo
 
